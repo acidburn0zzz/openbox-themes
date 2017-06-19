@@ -1,6 +1,6 @@
 # openbox-themes
 Themes I have made for the Openbox Window Manager 
-most are meant to be combined with a specific GTK theme
+most are matched with a given GTK theme.
 
 # Installation
 cd into the openbox-themes folder
