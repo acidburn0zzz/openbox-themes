@@ -93,7 +93,7 @@ window.inactive.button.toggled.hover.image.color: #3DAEE9
 
 
 border.color: #4D565E
-border.width: 1
+border.width: 3
 padding.width: 6
 padding.height: 3
 window.handle.width: 0
