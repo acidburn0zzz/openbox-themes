@@ -19,10 +19,10 @@ menu.separator.width: 1
 menu.separator.padding.width: 4
 menu.separator.padding.height: 6
 
-menu.border.width: 2
-menu.border.color: #EFF0F1
+menu.border.width: 6
+menu.border.color: #FFFFFF
 
-menu.overlap.x: -8
+menu.overlap.x: -12
 menu.overlap.y: 0
 
 
@@ -91,9 +91,11 @@ window.inactive.button.toggled.image.color: #898989
 window.inactive.button.toggled.bg: parentrelative
 window.inactive.button.toggled.hover.image.color: #3DAEE9
 
+window.active.border.color:  #3DAEE9
+window.inactive.border.color:  #FFFFFF
 
-border.color: #EFF0F1
-border.width: 3
+
+border.width: 5
 padding.width: 6
 padding.height: 3
 window.handle.width: 0
