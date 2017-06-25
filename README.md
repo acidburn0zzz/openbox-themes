@@ -1,10 +1,11 @@
 # openbox-themes
-Themes I have made for the Openbox Window Manager 
-most are matched with a given GTK theme.
+  - Themes I have made for the Openbox Window Manager
 
 # Installation
-cd into the openbox-themes folder
+  - extract or clone openbox-themes
 
-sudo cp -r OB-* /usr/share/themes/
+  - cd into openbox-themes
 
-You can slecet them in obconf or by editing your rc.xml
+  - sudo cp -r * /usr/share/themes/
+
+  - You can slecet them in obconf or by editing your rc.xml
