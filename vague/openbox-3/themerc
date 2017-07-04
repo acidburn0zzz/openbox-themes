@@ -3,8 +3,8 @@
 
 ## Title
 menu.title.bg: raised solid
-menu.title.bg.color: #EAE4C6
-menu.title.text.color: #3E1E18
+menu.title.bg.color: #3E1E18
+menu.title.text.color: #EAE4C6
 menu.title.text.justify: center
 
 #### Items ####
@@ -13,11 +13,11 @@ menu.title.text.justify: center
 menu.items.bg: flat solid
 menu.items.bg.color: #2D0A07
 menu.items.active.bg: flat solid
-menu.items.active.bg.color: #EAE4C6
+menu.items.active.bg.color: #757575
 
 # Text
-menu.items.text.color: #D7CAA0
-menu.items.active.text.color: #3E1E18
+menu.items.text.color: #EAE4C6
+menu.items.active.text.color: #EAE4C6
 menu.items.disabled.text.color: #59523C
 
 # Seperator

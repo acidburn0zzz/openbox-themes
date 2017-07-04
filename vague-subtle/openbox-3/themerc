@@ -11,13 +11,13 @@ menu.title.text.justify: center
 
 # Background
 menu.items.bg: flat solid
-menu.items.bg.color: #2D0A07
+menu.items.bg.color: #2C2826
 menu.items.active.bg: flat solid
-menu.items.active.bg.color: #3E1E18
+menu.items.active.bg.color: #757575
 
 # Text
-menu.items.text.color: #D7CAA0
-menu.items.active.text.color: #EAE4C6
+menu.items.text.color: #EAE4C6
+menu.items.active.text.color: #2D0A07
 menu.items.disabled.text.color: #59523C
 
 # Seperator
@@ -28,7 +28,7 @@ menu.separator.padding.height: 8
 
 # Border
 menu.border.width: 3
-menu.border.color: #2D0A07
+menu.border.color: #2C2826
 
 # Overlap
 menu.overlap.x: -8
@@ -52,8 +52,8 @@ window.inactive.label.bg: parentrelative
 window.inactive.label.text.color: #948864
 
 ## Title Seperator
-window.active.title.separator.color:  #2D0A07
-window.inactive.title.separator.color: #2D0A07
+window.active.title.separator.color:  #3E1E18
+window.inactive.title.separator.color: #3E1E18
 window.title.seperater.width: 0
 
 ## Active Window Buttons
